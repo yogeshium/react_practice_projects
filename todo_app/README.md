@@ -15,7 +15,7 @@ State Management: context api
 styling: css, material ui 
 Build Tool: vite
 
-Future Enhancement: 
+##Future Enhancement: 
 Add front-end routing
 Add backend
 Integrate Database (rightnow, using localStorage)
