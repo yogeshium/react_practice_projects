@@ -20,3 +20,6 @@ Add front-end routing
 Add backend
 Integrate Database (rightnow, using localStorage)
 To add user login and signup feature using authentication 
+
+##To Run : 
+"npm run dev"
